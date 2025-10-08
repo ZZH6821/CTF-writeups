@@ -1,10 +1,10 @@
 # CTF-writeups
 
-本 Repo 整理保存了本人各 CTF 比赛或网站的题解。
+This repository stores my writeups of various CTF competitions or websites.
 
 ## 目录
 
-| 名称                                                  | 比赛网站                       |
+| Name                                                  | Website                        |
 | ----------------------------------------------------- | ------------------------------ |
 | [ZJUCTF 2024](ZJUCTF_2024/ZJUCTF_2024.md)             | https://ctf.zjusec.com/games/4 |
 | [Hackergame 2024](Hackergame_2024/Hackergame_2024.md) | https://hack.lug.ustc.edu.cn/  |
