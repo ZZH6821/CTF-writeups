@@ -1,6 +1,6 @@
 # CTF-writeups
 
-This repository stores my writeups of various CTF competitions or websites.
+This repository stores my public writeups of various CTF competitions or websites.
 
 ## 目录
 
@@ -12,3 +12,4 @@ This repository stores my writeups of various CTF competitions or websites.
 | [CTF101 2025](CTF101_2025/CTF101_2025.md)             | https://ctf.zjusec.com/games/5 |
 | [CSACTF 2025](CSACTF_2025/CSACTF_2025.md)             | http://10.202.160.112/games/1  |
 | [ZJUCTF 2025](ZJUCTF_2025/ZJUCTF_2025.md)             | https://ctf.zjusec.com/games/6 |
+| [SJTU CTF 2026](SJTU_CTF_2026/SJTU_CTF_2026.md)       | https://play.0ops.sjtu.cn/     |
